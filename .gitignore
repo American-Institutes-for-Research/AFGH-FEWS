@@ -86,7 +86,7 @@ ENV/
 
 ### Node template
 # Logs
-log/
+log/luigi.*
 logfile
 logs
 *.log
@@ -343,7 +343,6 @@ tags
 # deployment specific configuration files
 .env
 .env*
-luigi.cfg
 
 # Jupyter Checkpoints
 .ipynb_checkpoints
