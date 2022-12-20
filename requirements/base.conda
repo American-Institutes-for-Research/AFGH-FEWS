@@ -1,0 +1,5 @@
+geopandas=0.12.2
+geoviews=1.9.5
+holoviews=1.15.3
+rasterstats=0.17.0
+pyproj==3.4.1
