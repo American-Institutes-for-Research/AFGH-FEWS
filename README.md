@@ -25,8 +25,7 @@ The datasets include:
 * FlowMinder population data is extratced from this [pdf](https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_Afghanistan_AcuteFoodInsec_2022Mar_2022Nov_report.pdf).
 
 ## Result Out
-
-![](resources/output.gif)
+![](resources/animation.gif)
 ## Usage/Examples
 
 Run the jupyter notebook and open the URL at the end.
